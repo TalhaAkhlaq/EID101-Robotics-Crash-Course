@@ -33,7 +33,7 @@ The following link leads to an interactive CAD model created with Onshape. You c
 
 ## Copyright & Licensing
 
-Copyright (C) 2024 Talha Akhlaq <talhaakhlaq1@gmail.com>
+Copyright © Talha Akhlaq
 
 Distributed under the MIT License. See LICENSE for details.
 ##
